@@ -1,0 +1,56 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    background-color: rgb(245, 233, 212);
+     /*background-image: url(../img/img.jpg);
+    background-size: cover;*/
+}
+
+.MyPrincipalContainer {
+
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buscador {
+
+}
+
+.boton {
+
+}
+
+.primerTitulo {
+   text-align: center;
+   font-style: oblique;
+   margin: 20px;   
+}
+
+.referencia  {
+    border-radius: 15px;
+    padding:5px;
+    margin:15px;
+    background-color: whitesmoke;
+}
+
+
+.title {
+    display: grid;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    width:70px;
+    margin: 2px;
+    border-radius: 15px;
+    padding:5px;
+    background-color: turquoise;
+    font-size: 10px;
+}
